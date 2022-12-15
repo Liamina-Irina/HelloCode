@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Examples\\Example003_Summ\\Example003_Summ.csproj",
+      "projectUniqueName": "D:\\Untitled\\Examples\\Example003_Summ\\Example003_Summ.csproj",
       "projectName": "Example003_Summ",
-      "projectPath": "D:\\Examples\\Example003_Summ\\Example003_Summ.csproj",
+      "projectPath": "D:\\Untitled\\Examples\\Example003_Summ\\Example003_Summ.csproj",
       "packagesPath": "C:\\Users\\irina\\.nuget\\packages\\",
-      "outputPath": "D:\\Examples\\Example003_Summ\\obj\\",
+      "outputPath": "D:\\Untitled\\Examples\\Example003_Summ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irina\\AppData\\Roaming\\NuGet\\NuGet.Config"
